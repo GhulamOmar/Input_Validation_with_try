@@ -16,7 +16,5 @@ class MyTestCase(unittest.TestCase):
             self.assertRaises(ValueError)
 
 
-
-
 if __name__ == '__main__':
     unittest.main()
