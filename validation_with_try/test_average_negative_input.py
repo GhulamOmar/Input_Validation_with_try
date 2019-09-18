@@ -2,7 +2,7 @@
 Program: validation_with_if.py
 Author: Ghulam Omar
 Last date modified: 09/17/19
-This program the test program for test_validation_with_try.
+This program the test program for test_validation_with_try..
 """
 import unittest
 import unittest.mock as result
